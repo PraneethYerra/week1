@@ -1,0 +1,9 @@
+Empid2
+EmpNamehello
+EmpSalary200.0
+Empid1
+EmpNamehey
+EmpSalary100.0
+Empid2
+EmpNamepraner
+EmpSalary1000.0

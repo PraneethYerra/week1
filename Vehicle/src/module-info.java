@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yerprane
+ *
+ */
+module Vehicle {
+}
